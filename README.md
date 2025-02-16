@@ -52,8 +52,7 @@ Want to help? Deliver food to those in need. The Volunteer Delivery screen lists
 - **No Duplicate Claims:** Once a volunteer accepts a request, it disappears for others.  
 - **OTP-Based Security:**  
   - Recipients can **dismiss unreliable volunteers** using their OTP, reopening the request for others.  
-  - Once delivered, recipients confirm completion using the OTP, closing the request.  
-This OTP-based delivery system ensures secure, efficient deliveries without logins.  
+  - Once delivered, recipients confirm completion using the OTP, closing the request. This OTP-based delivery system ensures secure, efficient deliveries without logins.  
 
 ### **5. Food Banks Finder Screen:**  
 Looking for a food bank? Find it with a tap. The Food Banks Finder uses Google Maps to show nearby food banks based on your location or entered address. It’s fast, simple, and potentially life-saving.  
