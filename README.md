@@ -1,6 +1,6 @@
 # FoodFind.ai
 
-**Connecting Surplus Food to Those in Need with AI**
+**Making food security accessible to everyone**
 
 **FoodFind.ai** is an AI-powered platform that connects food donors, recipients, and volunteers—fighting hunger, reducing food waste, and making giving easy for everyone.
 
