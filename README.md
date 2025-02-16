@@ -159,7 +159,7 @@ flowchart TD
 
 ---
 
-## ❤️ Contributing
+## 🤝  Contributing
 
 Contributions are always welcome! Please follow these steps:
 
