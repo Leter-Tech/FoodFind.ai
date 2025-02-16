@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "FoodFind.ai",
+    "slug": "foodfind-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.foodfindai",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      },
+      "runtimeVersion": {
+        "policy": "appVersion"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.foodfindai",
+      "runtimeVersion": "1.0.0"
+    },
+    "statusBar": {
+      "backgroundColor": "transparent",
+      "translucent": true,
+      "hidden": false
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "description": "...",
+    "extra": {
+      "eas": {
+        "projectId": "9a2f1348-3747-401a-a075-df6e4f99f674"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/9a2f1348-3747-401a-a075-df6e4f99f674"
+    }
+  }
+}
